@@ -1,0 +1,3 @@
+apple     2kilo
+banana	  3kilo
+mango	  2kilo
